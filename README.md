@@ -4,8 +4,8 @@
 <h3 align="center">Passionate about turning ideas into reality through code.</h3>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="mufeezhanif" width="70%" /> </p>
-<hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mufeezhanif&label=Profile%20views&color=0e75b6&style=flat" alt="mufeezhanif" /> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
@@ -63,8 +63,13 @@
 <a href="https://www.leetcode.com/mufeez-hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mufeez-hanif" height="30" width="40" /></a>
 </p>
 <br/>
-<hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mufeezhanif&" alt="mufeezhanif" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mufeezhanif&show_icons=true&locale=en" alt="mufeezhanif" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mufeezhanif&show_icons=true&locale=en&layout=compact"  alt="mufeezhanif" /></p>
+</br>
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+</br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
