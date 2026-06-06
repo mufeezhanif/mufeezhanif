@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mufeez+%F0%9F%91%8B;CS+Undergrad+%40+FAST+NUCES+Karachi;Data+Engineering+%7C+ML+%7C+Full-Stack;Building+cool+projects+every+day+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mufeezhanif&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/mufeezhanif)
-[![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/mufeezhanif?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&color=0e75b6)](https://github.com/mufeezhanif)
+[![Profile Views](https://komarev.com/ghpvc/?username=mufeezhanif&label=Profile%20Views&color=7aa2f7&style=for-the-badge)](https://github.com/mufeezhanif)
+[![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&color=7aa2f7)](https://github.com/mufeezhanif?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&color=7aa2f7)](https://github.com/mufeezhanif)
 
 </div>
 
@@ -48,38 +48,38 @@ me.say_hi()
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24283B?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-24283B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-24283B?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24283B?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-24283B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-24283B?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-24283B?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-24283B?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-24283B?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-24283B?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-24283B?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-24283B?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-24283B?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-24283B?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24283B?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-24283B?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24283B?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24283B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24283B?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24283B?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-24283B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-24283B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-24283B?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
@@ -122,12 +122,12 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmufeez)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mufeezhanif)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mufeez-hanif)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mufeezhanif)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mufeezhanif)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25481876)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmufeez)
+[![Kaggle](https://img.shields.io/badge/Kaggle-24283B?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mufeezhanif)
+[![LeetCode](https://img.shields.io/badge/LeetCode-24283B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mufeez-hanif)
+[![HackerRank](https://img.shields.io/badge/HackerRank-24283B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mufeezhanif)
+[![Codeforces](https://img.shields.io/badge/Codeforces-24283B?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mufeezhanif)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-24283B?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25481876)
 
 </div>
 
