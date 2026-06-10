@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16"/>
 
-### Backend & Full-Stack Developer · Data Engineer
+<h3>Backend &amp; Full-Stack Developer&nbsp;·&nbsp;Data Engineer</h3>
 
-I build production backends, real-time data pipelines, and full-stack platforms — Node.js MQTT/IoT services, Kafka streaming, and apps serving 300+ users.
+<p>I build production backends, real-time data pipelines, and full-stack platforms —<br/>Node.js MQTT/IoT services, Kafka streaming, and apps serving 300+ users.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif)
@@ -13,7 +13,7 @@ I build production backends, real-time data pipelines, and full-stack platforms 
 
 ---
 
-## 🧠 About Me
+## 👤 About Me
 
 ```python
 class MufeezHanif:
@@ -38,15 +38,15 @@ me.ship()
 
 ## 💼 What I Do
 
-- 🔧 **Backend Developer @ BoxTech** — built a Node.js MQTT server and scalable REST APIs powering a production IoT web app
-- 🛰️ **Data Engineering** — engineered a Kafka real-time pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
-- 🚀 **Full-Stack** — shipped **FAST Wheels** (WhatsApp carpool bot, **300+ users**) and **Yummaroo** (food-sharing platform, as team lead)
-- 🗄️ **Specialties** — REST API design, relational database modeling, real-time/IoT data, full-stack delivery
-- 🤝 Open to **Backend, Data Engineering & Software Engineering** opportunities
+- **Backend Developer @ BoxTech** — built a Node.js MQTT server and scalable REST APIs powering a production IoT web app
+- **Data Engineering** — engineered a Kafka real-time pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
+- **Full-Stack** — shipped **FAST Wheels** (WhatsApp carpool bot, **300+ users**) and **Yummaroo** (food-sharing platform, as team lead)
+- **Specialties** — REST API design, relational database modeling, real-time/IoT data, full-stack delivery
+- **Open to** Backend, Data Engineering & Software Engineering opportunities
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
 
@@ -68,46 +68,46 @@ me.ship()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=2DD4BF&labelColor=161B22)
+![C++](https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=2DD4BF&labelColor=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=2DD4BF&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=2DD4BF&labelColor=161B22)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat&logo=postgresql&logoColor=2DD4BF&labelColor=161B22)
 
-### 🤖 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-161B22?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=white)
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat&logo=pandas&logoColor=2DD4BF&labelColor=161B22)
+![NumPy](https://img.shields.io/badge/NumPy-161B22?style=flat&logo=numpy&logoColor=2DD4BF&labelColor=161B22)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-161B22?style=flat&logo=scikitlearn&logoColor=2DD4BF&labelColor=161B22)
+![Seaborn](https://img.shields.io/badge/Seaborn-161B22?style=flat&logo=python&logoColor=2DD4BF&labelColor=161B22)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161B22?style=flat&logo=python&logoColor=2DD4BF&labelColor=161B22)
+![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat&logo=opencv&logoColor=2DD4BF&labelColor=161B22)
 
-### ⚙️ Backend & Web
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=2DD4BF&labelColor=161B22)
+![Express](https://img.shields.io/badge/Express-161B22?style=flat&logo=express&logoColor=2DD4BF&labelColor=161B22)
+![React](https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=2DD4BF&labelColor=161B22)
+![Apache Kafka](https://img.shields.io/badge/Kafka-161B22?style=flat&logo=apachekafka&logoColor=2DD4BF&labelColor=161B22)
+![REST API](https://img.shields.io/badge/REST%20API-161B22?style=flat&logo=fastapi&logoColor=2DD4BF&labelColor=161B22)
 
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-161B22?style=for-the-badge&logo=digitalocean&logoColor=white)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=2DD4BF&labelColor=161B22)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=2DD4BF&labelColor=161B22)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=2DD4BF&labelColor=161B22)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonwebservices&logoColor=2DD4BF&labelColor=161B22)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=2DD4BF&labelColor=161B22)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat&logo=firebase&logoColor=2DD4BF&labelColor=161B22)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-161B22?style=flat&logo=digitalocean&logoColor=2DD4BF&labelColor=161B22)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=2DD4BF&labelColor=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=2DD4BF&labelColor=161B22)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=2DD4BF&labelColor=161B22)
+![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=flat&logo=visualstudiocode&logoColor=2DD4BF&labelColor=161B22)
+![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=flat&logo=jupyter&logoColor=2DD4BF&labelColor=161B22)
+![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=flat&logo=kaggle&logoColor=2DD4BF&labelColor=161B22)
 
 ---
 
@@ -122,7 +122,7 @@ me.ship()
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity
 
 <div align="center">
 
@@ -132,16 +132,16 @@ me.ship()
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmufeez)
-[![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mufeezhanif)
-[![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mufeez-hanif)
-[![HackerRank](https://img.shields.io/badge/HackerRank-161B22?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mufeezhanif)
-[![Codeforces](https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mufeezhanif)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-161B22?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25481876)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=2DD4BF&labelColor=161B22)](https://linkedin.com/in/muhammadmufeez)
+[![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=flat&logo=kaggle&logoColor=2DD4BF&labelColor=161B22)](https://kaggle.com/mufeezhanif)
+[![LeetCode](https://img.shields.io/badge/LeetCode-161B22?style=flat&logo=leetcode&logoColor=2DD4BF&labelColor=161B22)](https://leetcode.com/mufeez-hanif)
+[![HackerRank](https://img.shields.io/badge/HackerRank-161B22?style=flat&logo=hackerrank&logoColor=2DD4BF&labelColor=161B22)](https://hackerrank.com/mufeezhanif)
+[![Codeforces](https://img.shields.io/badge/Codeforces-161B22?style=flat&logo=codeforces&logoColor=2DD4BF&labelColor=161B22)](https://codeforces.com/profile/mufeezhanif)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-161B22?style=flat&logo=stackoverflow&logoColor=2DD4BF&labelColor=161B22)](https://stackoverflow.com/users/25481876)
 
 </div>
 
@@ -162,6 +162,6 @@ me.ship()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0D1117&height=100&section=footer"/>
 
-**⭐ If you like my work, consider starring some repos!**
+If you find my work useful, consider starring a repo ⭐
 
 </div>
