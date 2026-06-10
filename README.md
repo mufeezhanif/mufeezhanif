@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%2F%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16"/>
 
 <h3>Backend &amp; Full-Stack Developer&nbsp;·&nbsp;Data Engineer</h3>
 
