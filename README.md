@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20Data%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16"/>
 
-### Data Engineer · Machine Learning · Full-Stack Developer
+### Backend & Full-Stack Developer · Data Engineer
 
-CS undergrad at FAST NUCES Karachi — building data pipelines and ML systems.
+I build production backends, real-time data pipelines, and full-stack platforms — Node.js MQTT/IoT services, Kafka streaming, and apps serving 300+ users.
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif)
@@ -18,31 +18,31 @@ CS undergrad at FAST NUCES Karachi — building data pipelines and ML systems.
 ```python
 class MufeezHanif:
     def __init__(self):
-        self.name        = "Mufeez Hanif"
-        self.username    = "mufeezhanif"
-        self.university  = "FAST NUCES Karachi"
-        self.degree      = "BS Computer Science"
-        self.location    = "Karachi, Pakistan 🇵🇰"
-        self.interests   = ["Data Engineering", "Machine Learning", "Full-Stack Dev"]
-        self.currently   = "Building cool projects & learning every day 🚀"
-        self.fun_fact    = "I debug with print statements and I'm proud of it 😄"
+        self.name     = "Mufeez Hanif"
+        self.role     = "Backend & Full-Stack Developer | Data Engineer"
+        self.location = "Karachi, Pakistan 🇵🇰"
+        self.focus    = ["Backend Systems", "Data Engineering", "Full-Stack Apps"]
+        self.shipped  = ["Production REST/MQTT services", "Kafka pipelines",
+                         "Full-stack platforms (300+ users)"]
+        self.stack    = ["Python", "Node.js", "React", "PostgreSQL", "Kafka", "AWS"]
+        self.open_to  = "Backend / Data Engineering / Software Engineering roles"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together.")
+    def ship(self):
+        print("I turn requirements into reliable, production-grade systems.")
 
 me = MufeezHanif()
-me.say_hi()
+me.ship()
 ```
 
 ---
 
-## 🚀 What I'm Up To
+## 💼 What I Do
 
-- 🎓 Studying **Computer Science** at **FAST NUCES Karachi**
-- 🔭 Working on **Data Engineering pipelines & ML projects**
-- 🌱 Currently exploring **LLMs, RAG systems & MLOps**
-- 💬 Ask me about **Python, Machine Learning, or Full-Stack Development**
-- ⚡ Fun fact: I can spend hours debugging and still enjoy it!
+- 🔧 **Backend Developer @ BoxTech** — built a Node.js MQTT server and scalable REST APIs powering a production IoT web app
+- 🛰️ **Data Engineering** — engineered a Kafka real-time pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
+- 🚀 **Full-Stack** — shipped **FAST Wheels** (WhatsApp carpool bot, **300+ users**) and **Yummaroo** (food-sharing platform, as team lead)
+- 🗄️ **Specialties** — REST API design, relational database modeling, real-time/IoT data, full-stack delivery
+- 🤝 Open to **Backend, Data Engineering & Software Engineering** opportunities
 
 ---
 
@@ -85,15 +85,21 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚙️ Backend & Web
 ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-161B22?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white)
