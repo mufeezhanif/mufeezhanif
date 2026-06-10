@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20Data%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mufeez+%F0%9F%91%8B;CS+Undergrad+%40+FAST+NUCES+Karachi;Data+Engineering+%7C+ML+%7C+Full-Stack;Building+cool+projects+every+day+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+### Data Engineer · Machine Learning · Full-Stack Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mufeezhanif&label=Profile%20Views&color=2DD4BF&style=for-the-badge)](https://github.com/mufeezhanif)
+CS undergrad at FAST NUCES Karachi — building data pipelines and ML systems.
+
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif)
 
@@ -45,15 +46,36 @@ me.say_hi()
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
+</a>
+<a href="https://github.com/mufeezhanif/Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect — Multi-Agent Pathfinding Strategy Game"/>
+</a>
+
+<a href="https://github.com/mufeezhanif/clarimind-1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=clarimind-1&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="ClariMind"/>
+</a>
+<a href="https://github.com/mufeezhanif/trump-speech-hunter-boolean-information-retrieval">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=trump-speech-hunter-boolean-information-retrieval&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Boolean Information Retrieval Engine"/>
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white)
@@ -90,20 +112,6 @@ me.say_hi()
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mufeezhanif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mufeezhanif&hide_border=true&background=0D1117&border=161B22&stroke=161B22&ring=2DD4BF&fire=2DD4BF&currStreakNum=C9D1D9&currStreakLabel=2DD4BF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mufeezhanif&theme=github_dark&utcOffset=5" alt="Productive Time"/>
-
-<img width="49%" src="https://skillicons.dev/icons?i=python,cpp,js,react&theme=dark" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=mufeezhanif&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -138,17 +146,7 @@ me.say_hi()
 <div align="center">
 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)](https://github.com/piyushsuthar/github-readme-quotes)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/mufeezhanif/mufeezhanif/output/github-snake-dark.svg)
 
 </div>
 
