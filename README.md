@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%2F%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Mufeez%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%2F%20Full-Stack%20%2F%20Backend%20Engineer&descAlignY=55&descSize=16"/>
 
-<h3>Backend &amp; Full-Stack Developer&nbsp;·&nbsp;Data Engineer</h3>
+<h3>Software&nbsp;·&nbsp;Full-Stack&nbsp;·&nbsp;Backend Engineer</h3>
 
 <p>I build production backends, real-time data pipelines, and full-stack platforms —<br/>Node.js MQTT/IoT services, Kafka streaming, and apps serving 300+ users.</p>
 
@@ -19,13 +19,13 @@
 class MufeezHanif:
     def __init__(self):
         self.name     = "Mufeez Hanif"
-        self.role     = "Backend & Full-Stack Developer | Data Engineer"
+        self.role     = "Software · Full-Stack · Backend Engineer"
         self.location = "Karachi, Pakistan 🇵🇰"
-        self.focus    = ["Backend Systems", "Data Engineering", "Full-Stack Apps"]
+        self.focus    = ["Backend Systems", "Full-Stack Apps", "Software Engineering"]
         self.shipped  = ["Production REST/MQTT services", "Kafka pipelines",
                          "Full-stack platforms (300+ users)"]
         self.stack    = ["Python", "Node.js", "React", "PostgreSQL", "Kafka", "AWS"]
-        self.open_to  = "Backend / Data Engineering / Software Engineering roles"
+        self.open_to  = "Software / Full-Stack / Backend Engineering roles"
 
     def ship(self):
         print("I turn requirements into reliable, production-grade systems.")
@@ -39,10 +39,10 @@ me.ship()
 ## 💼 What I Do
 
 - **Backend Developer @ BoxTech** — built a Node.js MQTT server and scalable REST APIs powering a production IoT web app
-- **Data Engineering** — engineered a Kafka real-time pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
+- **Real-Time Systems** — engineered a Kafka pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
 - **Full-Stack** — shipped **FAST Wheels** (WhatsApp carpool bot, **300+ users**) and **Yummaroo** (food-sharing platform, as team lead)
 - **Specialties** — REST API design, relational database modeling, real-time/IoT data, full-stack delivery
-- **Open to** Backend, Data Engineering & Software Engineering opportunities
+- **Open to** Software, Full-Stack & Backend Engineering roles
 
 ---
 
