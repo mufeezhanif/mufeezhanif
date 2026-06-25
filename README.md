@@ -20,7 +20,7 @@ class MufeezHanif:
     def __init__(self):
         self.name     = "Mufeez Hanif"
         self.role     = "Software · Full-Stack · Backend Engineer"
-        self.location = "Karachi, Pakistan 🇵🇰"
+        self.location = "Karachi, Pakistan"
         self.focus    = ["Backend Systems", "Full-Stack Apps", "Software Engineering"]
         self.shipped  = ["Production REST/MQTT services", "Kafka pipelines",
                          "Full-stack platforms (300+ users)"]
@@ -138,6 +138,7 @@ me.ship()
 </div>
 
 ---
+
 
 <div align="center">
 
