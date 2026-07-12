@@ -56,10 +56,10 @@ me.ship()
 
 ## 📂 Featured Projects
 
-- **FAST Wheels** — WhatsApp carpool bot solving a real campus transport gap; 1,200+ registered users, MongoDB + Docker + DigitalOcean.
-- **PSL Integrity Shield** — On-chain anti-match-fixing protocol for the Pakistan Super League, built at Entangled Hackathon '26 (WireFluid Network); 38/38 tests passing.
-- **Heist Architect** — Turn-based multi-agent strategy game built on Conflict-Based Search, A*, and adversarial search.
-- **Boolean / Vector-Space IR Engines** — Information retrieval coursework systems indexing and ranking a corpus of political speeches.
+- **FAST Wheels** — WhatsApp-based carpooling bot for FAST students; matches ride requests by location, handles OTP verification, expires stale rides automatically, and gives admins moderation commands — all through chat, 1,200+ registered users.
+- **PSL Integrity Shield** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores.
+- **Heist Architect** — Turn-based strategy game where a heist crew plans routes past AI-controlled guards that track probabilities, predict player moves, and adapt in real time.
+- **Boolean / Vector-Space IR Engines** — Search engines that query a large speech archive and return ranked results using two different retrieval approaches: exact keyword matching and similarity-based ranking.
 
 <div align="center">
 
