@@ -78,28 +78,6 @@ me.ship()
 
 ---
 
-## 🏆 Awards
-
-| Placement | Competition | Host | Date |
-|---|---|---|---|
-| 🏆 **Winner** | Iterate '26 | SHU | Apr 2026 |
-| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
-| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
-| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
-| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
-| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
-| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
-| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
-| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
-| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
-| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
-| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
-| 🌟 Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
@@ -126,6 +104,28 @@ me.ship()
 <p>
 <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=2DD4BF&labelColor=161B22"/>&nbsp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2DD4BF&labelColor=161B22"/>&nbsp;<img alt="Linux" src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=2DD4BF&labelColor=161B22"/>&nbsp;<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=2DD4BF&labelColor=161B22"/>&nbsp;<img alt="Pytest" src="https://img.shields.io/badge/Pytest-161B22?style=for-the-badge&logo=pytest&logoColor=2DD4BF&labelColor=161B22"/>
 </p>
+
+---
+
+## 🏆 Awards
+
+| Placement | Competition | Host | Date |
+|---|---|---|---|
+| 🏆 **Winner** | Iterate '26 | SHU | Apr 2026 |
+| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
+| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
+| 🌟 Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
 
 ---
 
