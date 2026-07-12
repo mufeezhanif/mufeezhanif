@@ -57,10 +57,9 @@ me.ship()
 
 ## 📂 Featured Projects
 
-- **FAST Wheels** — WhatsApp-based carpooling bot for FAST students; matches ride requests by location, handles OTP verification, expires stale rides automatically, and gives admins moderation commands — all through chat, 1,600+ registered users.
-- **PSL Integrity Shield** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores.
-- **Heist Architect** — Turn-based strategy game where a heist crew plans routes past AI-controlled guards that track probabilities, predict player moves, and adapt in real time.
-- **Boolean / Vector-Space IR Engines** — Search engines that query a large speech archive and return ranked results using two different retrieval approaches: exact keyword matching and similarity-based ranking.
+- **Clarimind** — AI whiteboard tutor; three coordinated agents walk students through problems step by step, generating explanations and practice questions on a shared whiteboard.
+- **AI-Enhanced CRM** — Support ticket system that automatically classifies incoming tickets and analyzes sentiment, routing them without manual triage.
+- **DepositBack** — AI agent for tenants disputing security-deposit deductions; reads leases, deduction letters, and move-out photos, then drafts a statute-cited demand letter and pre-fills small-claims forms.
 
 <div align="center">
 
@@ -71,18 +70,8 @@ me.ship()
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
 </a>
 
-<a href="https://github.com/mufeezhanif/psl-integrity-shield-wirefluid">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
-</a>
-<a href="https://github.com/mufeezhanif/Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect — Multi-Agent Pathfinding Strategy Game"/>
-</a>
-
-<a href="https://github.com/mufeezhanif/trump-speech-hunter-boolean-information-retrieval">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=trump-speech-hunter-boolean-information-retrieval&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Boolean Information Retrieval Engine"/>
-</a>
-<a href="https://github.com/mufeezhanif/vector-space-model-information-retrieval-trump-speeches">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=vector-space-model-information-retrieval-trump-speeches&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Vector Space Model IR Engine"/>
+<a href="https://github.com/mufeezhanif/depositback">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=depositback&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="DepositBack"/>
 </a>
 
 </div>
