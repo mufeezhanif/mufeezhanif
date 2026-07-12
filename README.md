@@ -57,14 +57,14 @@ me.ship()
 
 ## 📂 Featured Projects
 
-- **Clarimind** — AI whiteboard tutor; three coordinated agents walk students through problems step by step, generating explanations and practice questions on a shared whiteboard.
+- **PSL Integrity Shield** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores.
 - **AI-Enhanced CRM** — Support ticket system that automatically classifies incoming tickets and analyzes sentiment, routing them without manual triage.
 - **DepositBack** — AI agent for tenants disputing security-deposit deductions; reads leases, deduction letters, and move-out photos, then drafts a statute-cited demand letter and pre-fills small-claims forms.
 
 <div align="center">
 
-<a href="https://github.com/mufeezhanif/clarimind-1">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=clarimind-1&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Clarimind"/>
+<a href="https://github.com/mufeezhanif/psl-integrity-shield-wirefluid">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
 </a>
 <a href="https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
