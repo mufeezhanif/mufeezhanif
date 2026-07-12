@@ -32,7 +32,7 @@ class MufeezHanif:
         ]
         self.stack     = ["Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Redis",
                           "Kafka", "Docker", "React", "Python", "TypeScript"]
-        self.open_to   = "Projects only"
+        self.open_to   = "Freelance & Project-Based Work"
 
     def ship(self):
         print("I turn requirements into reliable, production-grade systems.")
@@ -51,7 +51,7 @@ me.ship()
 - **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,200+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
 - **Teaching & Mentorship** — Lab Assistant @ FAST-NUCES for CL1002 Programming Fundamentals, mentored 30+ students weekly in C and debugging
 - **Specialties** — REST API design, real-time systems, LLM agent pipelines, relational & document database modeling
-- **Open to** Backend / AI Engineering internships and junior engineering roles
+- **Open to** Freelance work and project-based collaborations
 
 ---
 
