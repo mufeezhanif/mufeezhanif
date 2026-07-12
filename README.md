@@ -47,7 +47,7 @@ me.ship()
 
 - **SWE Intern @ Agento** — working on AI
 - **AI Instructor @ AI Season** — teaching AI engineering and AI agent development in a bootcamp
-- **Former Backend Developer @ BoxTech** (Jan–Feb 2026) — built Node.js/MQTT ingestion service with Redis, Socket.IO, JWT auth on Ubuntu VPS via PM2
+- **Former Backend Developer @ BoxTech** — built Node.js/MQTT ingestion service with Redis, Socket.IO, JWT auth on Ubuntu VPS via PM2
 - **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,600+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
 - **Teaching & Mentorship** — Lab Assistant @ FAST-NUCES for CL1002 Programming Fundamentals, mentored 50+ students weekly in C and debugging
 - **Specialties** — REST API design, real-time systems, LLM agent pipelines, relational & document database modeling
