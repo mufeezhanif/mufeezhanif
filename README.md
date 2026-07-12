@@ -4,7 +4,7 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p>🏆 <strong>PROCOM 2026 Champion (JS Bank Hackathon) · Teknofest Karachi 2026 Winner</strong><br/>
+<p>🏆 <strong>5x Competition Winner · 15+ Podium Finishes</strong> — PROCOM '26, Teknofest Karachi '26, Coders Cup, Iterate '26 & more<br/>
 I build production backends, real-time data pipelines, and AI-enabled platforms —<br/>Node.js, FastAPI, Kafka, Docker, and LLM agents serving <strong>1,200+ users</strong>.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
@@ -16,10 +16,23 @@ I build production backends, real-time data pipelines, and AI-enabled platforms 
 
 ## 🏆 Awards
 
-| Award | Event | Year |
-|---|---|---|
-| 🥇 **1st Place** — JS Bank Hackathon | PROCOM, FAST NUCES | 2026 |
-| 🏆 **Winner** — App Development Track | Teknofest Karachi | 2026 |
+| Placement | Competition | Host | Date |
+|---|---|---|---|
+| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 🏆 Winner | Iterate '26 | SHU | Apr 2026 |
+| 🥇 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
+| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
+| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 🌟 Special Mention | TGD | — | 2023 |
 
 ---
 
@@ -33,9 +46,8 @@ class MufeezHanif:
         self.location  = "Karachi, Pakistan"
         self.education = "BS Computer Science @ FAST NUCES | GPA 3.68 | Dean's List"
         self.focus     = ["Backend Systems", "AI-Enabled Apps", "Real-Time Data Pipelines"]
+        self.awards    = "5x Winner · 15+ Competition Placements (PROCOM, Teknofest, Coders Cup, Iterate, and more)"
         self.shipped   = [
-            "PROCOM 2026 Champion (JS Bank Hackathon)",
-            "Teknofest Karachi 2026 Winner",
             "FAST Wheels — WhatsApp carpool platform (1,200+ users)",
             "Clarimind — 3-agent AI whiteboard tutor",
             "TechServe CRM — AI ticket classification + sentiment analysis",
@@ -59,12 +71,18 @@ me.ship()
 - **Backend Developer @ BoxTech** — built Node.js/MQTT ingestion service with Redis, Socket.IO, JWT auth on Ubuntu VPS via PM2
 - **Real-Time Systems** — engineered Kafka pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
 - **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,200+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
+- **Teaching & Mentorship** — Lab Assistant @ FAST-NUCES for CL1002 Programming Fundamentals, mentored 30+ students weekly in C and debugging
 - **Specialties** — REST API design, real-time systems, LLM agent pipelines, relational & document database modeling
 - **Open to** Backend / AI Engineering internships and junior engineering roles
 
 ---
 
 ## 📂 Featured Projects
+
+- **FAST Wheels** — WhatsApp carpool bot solving a real campus transport gap; 1,200+ registered users, MongoDB + Docker + DigitalOcean.
+- **PSL Integrity Shield** — On-chain anti-match-fixing protocol for the Pakistan Super League, built at Entangled Hackathon '26 (WireFluid Network); 38/38 tests passing.
+- **Heist Architect** — Turn-based multi-agent strategy game built on Conflict-Based Search, A*, and adversarial search.
+- **Boolean / Vector-Space IR Engines** — Information retrieval coursework systems indexing and ranking a corpus of political speeches.
 
 <div align="center">
 
@@ -76,7 +94,7 @@ me.ship()
 </a>
 
 <a href="https://github.com/mufeezhanif/psl-integrity-shield-wirefluid">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — PROCOM 2026 Winner"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
 </a>
 <a href="https://github.com/mufeezhanif/Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect — Multi-Agent Pathfinding Strategy Game"/>
@@ -147,7 +165,7 @@ me.ship()
 
 <div align="center">
 
-<a href="https://mufeezhanif.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://linkedin.com/in/muhammadmufeez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://kaggle.com/mufeezhanif"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://leetcode.com/mufeez-hanif"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://hackerrank.com/mufeezhanif"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-161B22?style=for-the-badge&logo=hackerrank&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://codeforces.com/profile/mufeezhanif"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://stackoverflow.com/users/25481876"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-161B22?style=for-the-badge&logo=stackoverflow&logoColor=2DD4BF&labelColor=161B22"/></a>
+<a href="https://mufeezhanif.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://linkedin.com/in/muhammadmufeez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://kaggle.com/mufeezhanif"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://leetcode.com/mufeez-hanif"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=161B22"/></a>
 
 </div>
 
