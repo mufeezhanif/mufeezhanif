@@ -23,17 +23,16 @@ class MufeezHanif:
         self.role      = "Backend · Full-Stack · AI Engineer"
         self.location  = "Karachi, Pakistan"
         self.education = "BS Computer Science @ FAST NUCES | GPA 3.68 | Dean's List"
-        self.focus     = ["Backend Systems", "AI-Enabled Apps", "Real-Time Data Pipelines"]
+        self.focus     = "Delivering real, full-stack applications — from idea to deployment — that users can actually use"
         self.awards    = "14x Competition Placements (PROCOM, Teknofest, Coders Cup, Iterate, and more)"
         self.shipped   = [
             "FAST Wheels — WhatsApp carpool platform (1,200+ users)",
             "Clarimind — 3-agent AI whiteboard tutor",
             "TechServe CRM — AI ticket classification + sentiment analysis",
-            "Kafka pipeline @ National Center for Physics (RGB + IR sensor fusion)",
         ]
         self.stack     = ["Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Redis",
                           "Kafka", "Docker", "React", "Python", "TypeScript"]
-        self.open_to   = "Backend / AI Engineering internships & roles"
+        self.open_to   = "Projects only"
 
     def ship(self):
         print("I turn requirements into reliable, production-grade systems.")
