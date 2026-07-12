@@ -4,7 +4,7 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p>🏆 <strong>14x Competition Placements</strong><br/>
+<p style="font-size:18px">🏆 <strong>14x Competition Placements</strong><br/>
 Full-stack, AI-enabled, or straightforward — I build production-ready software that ships, scales, and solves real problems for real users.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
