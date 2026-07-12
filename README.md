@@ -46,6 +46,7 @@ me.ship()
 ## 💼 What I Do
 
 - **SWE Intern @ Agento** — working on AI
+- **AI Instructor @ AI Season** — teaching AI engineering and AI agent development in a bootcamp
 - **Backend Developer @ BoxTech** — built Node.js/MQTT ingestion service with Redis, Socket.IO, JWT auth on Ubuntu VPS via PM2
 - **Real-Time Systems** — engineered Kafka pipeline streaming multimodal sensor data (RGB + IR) at the National Center for Physics
 - **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,200+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
