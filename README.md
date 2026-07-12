@@ -4,8 +4,8 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p>🏆 <strong>14x Competition Placements</strong> — PROCOM '26, Teknofest Karachi '26, Coders Cup '25, Iterate '26 & more<br/>
-I build production backends, real-time data pipelines, and AI-enabled platforms —<br/>Node.js, FastAPI, Kafka, Docker, and LLM agents serving <strong>1,200+ users</strong>.</p>
+<p>🏆 <strong>14x Competition Placements</strong><br/>
+Full-stack, AI-enabled, or straightforward — I build production-ready software that ships, scales, and solves real problems for real users.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif)
