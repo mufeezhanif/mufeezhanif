@@ -14,28 +14,6 @@ I build production backends, real-time data pipelines, and AI-enabled platforms 
 
 ---
 
-## 🏆 Awards
-
-| Placement | Competition | Host | Date |
-|---|---|---|---|
-| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
-| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
-| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
-| 🏆 Winner | Iterate '26 | SHU | Apr 2026 |
-| 🥇 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
-| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
-| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
-| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
-| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
-| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
-| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
-| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
-| 🌟 Special Mention | TGD | — | 2023 |
-
----
-
 ## 👤 About Me
 
 ```python
@@ -87,27 +65,49 @@ me.ship()
 <div align="center">
 
 <a href="https://github.com/mufeezhanif/clarimind-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=clarimind-1&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Clarimind"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=clarimind-1&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Clarimind"/>
 </a>
 <a href="https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
 </a>
 
 <a href="https://github.com/mufeezhanif/psl-integrity-shield-wirefluid">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
 </a>
 <a href="https://github.com/mufeezhanif/Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect — Multi-Agent Pathfinding Strategy Game"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=Heist-Architect-Multi-Agent-Pathfinding-Strategy-Game&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect — Multi-Agent Pathfinding Strategy Game"/>
 </a>
 
 <a href="https://github.com/mufeezhanif/trump-speech-hunter-boolean-information-retrieval">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=trump-speech-hunter-boolean-information-retrieval&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Boolean Information Retrieval Engine"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=trump-speech-hunter-boolean-information-retrieval&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Boolean Information Retrieval Engine"/>
 </a>
 <a href="https://github.com/mufeezhanif/vector-space-model-information-retrieval-trump-speeches">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mufeezhanif&repo=vector-space-model-information-retrieval-trump-speeches&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Vector Space Model IR Engine"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=vector-space-model-information-retrieval-trump-speeches&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Vector Space Model IR Engine"/>
 </a>
 
 </div>
+
+---
+
+## 🏆 Awards
+
+| Placement | Competition | Host | Date |
+|---|---|---|---|
+| 🏆 **Winner** | Iterate '26 | SHU | Apr 2026 |
+| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
+| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
+| 🌟 Special Mention | TGD | — | 2023 |
 
 ---
 
