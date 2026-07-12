@@ -4,7 +4,7 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p>🏆 <strong>5x Competition Winner · 15+ Podium Finishes</strong> — PROCOM '26, Teknofest Karachi '26, Coders Cup, Iterate '26 & more<br/>
+<p>🏆 <strong>5x Hackathon & Competition Winner</strong> — PROCOM '26, Teknofest Karachi '26, Coders Cup '25, Iterate '26 & more<br/>
 I build production backends, real-time data pipelines, and AI-enabled platforms —<br/>Node.js, FastAPI, Kafka, Docker, and LLM agents serving <strong>1,200+ users</strong>.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
@@ -24,7 +24,7 @@ class MufeezHanif:
         self.location  = "Karachi, Pakistan"
         self.education = "BS Computer Science @ FAST NUCES | GPA 3.68 | Dean's List"
         self.focus     = ["Backend Systems", "AI-Enabled Apps", "Real-Time Data Pipelines"]
-        self.awards    = "5x Winner · 15+ Competition Placements (PROCOM, Teknofest, Coders Cup, Iterate, and more)"
+        self.awards    = "5x Hackathon & Competition Winner (PROCOM, Teknofest, Coders Cup, Iterate, and more)"
         self.shipped   = [
             "FAST Wheels — WhatsApp carpool platform (1,200+ users)",
             "Clarimind — 3-agent AI whiteboard tutor",
