@@ -26,7 +26,7 @@ class MufeezHanif:
         self.focus     = "Delivering real, full-stack applications — from idea to deployment — that users can actually use"
         self.awards    = "14x Competition Placements (PROCOM, Teknofest, Coders Cup, Iterate, and more)"
         self.shipped   = [
-            "FAST Wheels — WhatsApp carpool platform (1,200+ users)",
+            "FAST Wheels — WhatsApp carpool platform (1,600+ users)",
             "Clarimind — 3-agent AI whiteboard tutor",
             "TechServe CRM — AI ticket classification + sentiment analysis",
         ]
@@ -48,7 +48,7 @@ me.ship()
 - **SWE Intern @ Agento** — working on AI
 - **AI Instructor @ AI Season** — teaching AI engineering and AI agent development in a bootcamp
 - **Former Backend Developer @ BoxTech** (Jan–Feb 2026) — built Node.js/MQTT ingestion service with Redis, Socket.IO, JWT auth on Ubuntu VPS via PM2
-- **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,200+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
+- **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,600+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
 - **Teaching & Mentorship** — Lab Assistant @ FAST-NUCES for CL1002 Programming Fundamentals, mentored 50+ students weekly in C and debugging
 - **Specialties** — REST API design, real-time systems, LLM agent pipelines, relational & document database modeling
 - **Open to** Freelance work and project-based collaborations
@@ -57,7 +57,7 @@ me.ship()
 
 ## 📂 Featured Projects
 
-- **FAST Wheels** — WhatsApp-based carpooling bot for FAST students; matches ride requests by location, handles OTP verification, expires stale rides automatically, and gives admins moderation commands — all through chat, 1,200+ registered users.
+- **FAST Wheels** — WhatsApp-based carpooling bot for FAST students; matches ride requests by location, handles OTP verification, expires stale rides automatically, and gives admins moderation commands — all through chat, 1,600+ registered users.
 - **PSL Integrity Shield** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores.
 - **Heist Architect** — Turn-based strategy game where a heist crew plans routes past AI-controlled guards that track probabilities, predict player moves, and adapt in real time.
 - **Boolean / Vector-Space IR Engines** — Search engines that query a large speech archive and return ranked results using two different retrieval approaches: exact keyword matching and similarity-based ranking.
