@@ -57,14 +57,15 @@ me.ship()
 
 ## 📂 Featured Projects
 
-- **PSL Integrity Shield** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores.
-- **AI-Enhanced CRM** — Support ticket system that automatically classifies incoming tickets and analyzes sentiment, routing them without manual triage.
-- **DepositBack** — AI agent for tenants disputing security-deposit deductions; reads leases, deduction letters, and move-out photos, then drafts a statute-cited demand letter and pre-fills small-claims forms.
+- **[PSL Integrity Shield](https://psl-integrity-shield.vercel.app)** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores. [Repo](https://github.com/mufeezhanif/psl-integrity-shield)
+- **[AI-Enhanced CRM](https://crm-ticket-frontend.vercel.app)** — Support ticket system that automatically classifies incoming tickets and analyzes sentiment, routing them without manual triage. [Repo](https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System)
+- **[DepositBack](https://depositback-frontend.vercel.app)** — AI agent for tenants disputing security-deposit deductions; reads leases, deduction letters, and move-out photos, then drafts a statute-cited demand letter and pre-fills small-claims forms. [Repo](https://github.com/mufeezhanif/depositback)
+- **[Heist Architect](https://heist-architect-frontend.vercel.app)** — Two-player strategy game built around real AI algorithms as core gameplay: Conflict-Based Search for multi-agent pathfinding, Bayesian inference for guard tracking, and adversarial search (Minimax) for interception. [Repo](https://github.com/mufeezhanif/heist-architect)
 
 <div align="center">
 
-<a href="https://github.com/mufeezhanif/psl-integrity-shield-wirefluid">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield-wirefluid&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
+<a href="https://github.com/mufeezhanif/psl-integrity-shield">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=psl-integrity-shield&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="PSL Integrity Shield — Entangled Hackathon '26"/>
 </a>
 <a href="https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=AI-Enhanced-CRM-Ticket-Management-System&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="AI-Enhanced CRM Ticket Management System"/>
@@ -72,6 +73,9 @@ me.ship()
 
 <a href="https://github.com/mufeezhanif/depositback">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=depositback&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="DepositBack"/>
+</a>
+<a href="https://github.com/mufeezhanif/heist-architect">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mufeezhanif&repo=heist-architect&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&border_color=161B22" alt="Heist Architect"/>
 </a>
 
 </div>
