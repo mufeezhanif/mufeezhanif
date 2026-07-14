@@ -4,7 +4,7 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p style="font-size:18px">🏆 <strong>14x Competition Placements</strong><br/>
+<p style="font-size:18px"><strong>14x Competition Placements</strong><br/>
 Full-stack, AI-enabled, or straightforward — I build production-ready software that ships, scales, and solves real problems for real users.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
@@ -14,7 +14,7 @@ Full-stack, AI-enabled, or straightforward — I build production-ready software
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```python
 class MufeezHanif:
@@ -43,7 +43,7 @@ me.ship()
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - **SWE Intern @ Agento** — working on AI
 - **AI Instructor @ AI Season** — teaching AI engineering and AI agent development in a bootcamp
@@ -55,7 +55,7 @@ me.ship()
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **[PSL Integrity Shield](https://psl-integrity-shield.vercel.app)** — Anti-match-fixing platform for the Pakistan Super League; reports match events on-chain, runs a commit-reveal prediction system, and flags suspicious matches through stake-weighted voting and reporter trust scores. [Repo](https://github.com/mufeezhanif/psl-integrity-shield)
 - **[AI-Enhanced CRM](https://crm-ticket-frontend.vercel.app)** — Support ticket system that automatically classifies incoming tickets and analyzes sentiment, routing them without manual triage. [Repo](https://github.com/mufeezhanif/AI-Enhanced-CRM-Ticket-Management-System)
@@ -82,7 +82,7 @@ me.ship()
 
 ---
 
-## 🚀 Live Products
+## Live Products
 
 - **[FAST Wheels](https://fastwheels.app)** — Pakistan's first AI-powered, WhatsApp-native carpooling platform. 500+ users, 1,000+ rides shared across Karachi, Lahore, and Islamabad.
 - **[Neighbourly](https://iba-final.vercel.app)** — marketplace for hiring local neighborhood services, built at the IBA Hackathon. [Repo](https://github.com/mufeezhanif/iba-final)
@@ -92,7 +92,7 @@ me.ship()
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -121,29 +121,29 @@ me.ship()
 
 ---
 
-## 🏆 Awards
+## Awards
 
 | Placement | Competition | Host | Date |
 |---|---|---|---|
-| 🏆 **Winner** | Iterate '26 | SHU | Apr 2026 |
-| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
-| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
-| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
-| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
-| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
-| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
-| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
-| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
-| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
-| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
-| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
-| 🌟 Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
+| **Winner** | Iterate '26 | SHU | Apr 2026 |
+| **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
+| Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
+| Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -154,7 +154,7 @@ me.ship()
 
 ---
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -164,7 +164,7 @@ me.ship()
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
@@ -174,7 +174,7 @@ me.ship()
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -188,7 +188,7 @@ me.ship()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0D1117&height=100&section=footer"/>
 
-If you find my work useful, consider starring a repo ⭐
+If you find my work useful, consider starring a repo
 
 </div>
 
