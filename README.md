@@ -87,8 +87,8 @@ me.ship()
 - **[FAST Wheels](https://fastwheels.app)** — Pakistan's first AI-powered, WhatsApp-native carpooling platform. 500+ users, 1,000+ rides shared across Karachi, Lahore, and Islamabad.
 - **[Neighbourly](https://iba-final.vercel.app)** — marketplace for hiring local neighborhood services, built at the IBA Hackathon. [Repo](https://github.com/mufeezhanif/iba-final)
 - **[Incognito Terminal](https://incognito-terminal-trn1.vercel.app)** — a terminal you can use right in your browser. [Repo](https://github.com/mufeezhanif/Incognito-Terminal)
-- **[TechHeist](https://tech-heist-dev-day.vercel.app)** — project built at the DevDay hackathon.
-- **[ChiParadox](https://chi-paradox.vercel.app)** — project built at a hackathon.
+- **[TechHeist](https://tech-heist-dev-day.vercel.app)** — competition platform built for participants to play on at the DevDay hackathon.
+- **[ChiParadox](https://chi-paradox.vercel.app)** — competition platform built for participants to play on at a hackathon.
 - **[DAA Visualizer](https://daa-project-sandy.vercel.app)** — interactive visualizer for the Closest Pair and Karatsuba multiplication algorithms. [Repo](https://github.com/mufeezhanif/DAA_PROJECT)
 
 ---
