@@ -4,7 +4,7 @@
 
 <h3>Backend · Full-Stack · AI Engineer</h3>
 
-<p style="font-size:18px"><strong>14x Competition Placements</strong><br/>
+<p style="font-size:18px"><strong>14x Competition Placements 🏆</strong><br/>
 Full-stack, AI-enabled, or straightforward — I build production-ready software that ships, scales, and solves real problems for real users.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
@@ -51,7 +51,7 @@ me.ship()
 - **Full-Stack & AI** — shipped **FAST Wheels** (WhatsApp carpool bot, **1,600+ users**), **Clarimind** (3-agent AI tutor), and **TechServe CRM** (AI ticket routing)
 - **Teaching & Mentorship** — Lab Assistant @ FAST-NUCES for CL1002 Programming Fundamentals, mentored 50+ students weekly in C and debugging
 - **Specialties** — REST API design, real-time systems, LLM agent pipelines, relational & document database modeling
-- **Open to** Freelance work and project-based collaborations
+- **Open to** <strong>Freelance work and project-based collaborations</strong>
 
 ---
 
@@ -87,8 +87,8 @@ me.ship()
 - **[FAST Wheels](https://fastwheels.app)** — Pakistan's first AI-powered, WhatsApp-native carpooling platform. 500+ users, 1,000+ rides shared across Karachi, Lahore, and Islamabad.
 - **[Neighbourly](https://iba-final.vercel.app)** — marketplace for hiring local neighborhood services, built at the IBA Hackathon. [Repo](https://github.com/mufeezhanif/iba-final)
 - **[Incognito Terminal](https://incognito-terminal-trn1.vercel.app)** — a terminal you can use right in your browser. [Repo](https://github.com/mufeezhanif/Incognito-Terminal)
-- **[TechHeist](https://tech-heist-dev-day.vercel.app)** — competition platform built for participants to play on at the DevDay hackathon.
-- **[ChiParadox](https://chi-paradox.vercel.app)** — competition platform built for participants to play on at a hackathon.
+- **[TechHeist](https://tech-heist-dev-day.vercel.app)** — competition platform built for participants to play it on the DevDay.
+- **[ChiParadox](https://chi-paradox.vercel.app)** — competition platform built for participants to play in a competition.
 - **[DAA Visualizer](https://daa-project-sandy.vercel.app)** — interactive visualizer for the Closest Pair and Karatsuba multiplication algorithms. [Repo](https://github.com/mufeezhanif/DAA_PROJECT)
 
 ---
