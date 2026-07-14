@@ -7,6 +7,8 @@
 <p style="font-size:18px"><strong>14x Competition Placements 🏆</strong><br/>
 Full-stack, AI-enabled, or straightforward — I build production-ready software that ships, scales, and solves real problems for real users.</p>
 
+<a href="https://mufeezhanif.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://linkedin.com/in/muhammadmufeez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=161B22"/></a>
+
 [![GitHub followers](https://img.shields.io/github/followers/mufeezhanif?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/mufeezhanif?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/mufeezhanif)
 
