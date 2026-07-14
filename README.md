@@ -89,6 +89,7 @@ me.ship()
 - **[Incognito Terminal](https://incognito-terminal-trn1.vercel.app)** — a terminal you can use right in your browser. [Repo](https://github.com/mufeezhanif/Incognito-Terminal)
 - **[TechHeist](https://tech-heist-dev-day.vercel.app)** — project built at the DevDay hackathon.
 - **[ChiParadox](https://chi-paradox.vercel.app)** — project built at a hackathon.
+- **[DAA Visualizer](https://daa-project-sandy.vercel.app)** — interactive visualizer for the Closest Pair and Karatsuba multiplication algorithms. [Repo](https://github.com/mufeezhanif/DAA_PROJECT)
 
 ---
 
@@ -125,21 +126,21 @@ me.ship()
 
 | Placement | Competition | Host | Date |
 |---|---|---|---|
-| **Winner** | Iterate '26 | SHU | Apr 2026 |
-| **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
-| **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
-| Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
-| Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
-| Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
-| Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
-| Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
-| Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
-| Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
-| 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
-| 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
-| 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
-| Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
+| 🏆 **Winner** | Iterate '26 | SHU | Apr 2026 |
+| 🏆 **Winner** | JS Bank Hackathon | PROCOM '26, FAST NUCES | Feb 2026 |
+| 🏆 **Winner** | App Development | Teknofest Karachi '26 | Jan 2026 |
+| 🏆 Winner | Pitch Warriors | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🏆 Winner | Marketing Maestro | FES Fest, FAST NUCES | Feb 2025 |
+| 🥈 Runner-up | BWAI Hackathon | GDG on Campus, DHA Suffa University | Apr 2026 |
+| 🥈 Runner-up | Web Development | IBA Hackathon, Karachi | Jan 2026 |
+| 🥈 Runner-up | Object-Oriented Programming | Teknofest Karachi '26 | Jan 2026 |
+| 🥈 Runner-up | Crisis Council | FES Fest, FAST NUCES | Nov 2025 |
+| 🥈 Runner-up | Code Fu | Coders Cup '25, ACM NUCES FAST | Nov 2025 |
+| 🥈 Runner-up | Debugging | SuperComp, Bahria University | Dec 2024 |
+| 🥉 3rd Place | Zab E-Fest '26 | SZABIST, Karachi | May 2026 |
+| 🥉 3rd Place | National AI Hackathon '26 | atomcamp | Apr 2026 |
+| 🎖️ 4th / 64 Teams | Debugging | PROCOM, FAST NUCES | 2025 |
+| 🌟 Special Mention | TGD | The Literary Club (TLC), FAST NUCES | 2023 |
 
 ---
 
